@@ -1,4 +1,6 @@
 # @nuxtjs/auth
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/auth-module.svg)](https://greenkeeper.io/)
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/auth/latest.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/auth)
 [![npm](https://img.shields.io/npm/dt/@nuxtjs/auth.svg?style=flat-square)](https://npmjs.com/package/@nuxtjs/auth)
 [![CircleCI](https://img.shields.io/circleci/project/github/nuxt-community/auth-module.svg?style=flat-square)](https://circleci.com/gh/nuxt-community/auth-module)
